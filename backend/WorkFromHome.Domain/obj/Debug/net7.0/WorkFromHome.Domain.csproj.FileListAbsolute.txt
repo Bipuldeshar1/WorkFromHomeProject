@@ -1,0 +1,39 @@
+C:\Users\Dell\Desktop\internship\WorkFromHome.Domain\bin\Debug\net7.0\WorkFromHome.Domain.deps.json
+C:\Users\Dell\Desktop\internship\WorkFromHome.Domain\bin\Debug\net7.0\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\internship\WorkFromHome.Domain\bin\Debug\net7.0\WorkFromHome.Domain.pdb
+C:\Users\Dell\Desktop\internship\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\internship\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\internship\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\internship\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.AssemblyInfo.cs
+C:\Users\Dell\Desktop\internship\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\internship\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.sourcelink.json
+C:\Users\Dell\Desktop\internship\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\internship\WorkFromHome.Domain\obj\Debug\net7.0\refint\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\internship\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.pdb
+C:\Users\Dell\Desktop\internship\WorkFromHome.Domain\obj\Debug\net7.0\ref\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Domain\bin\Debug\net7.0\WorkFromHome.Domain.deps.json
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Domain\bin\Debug\net7.0\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Domain\bin\Debug\net7.0\WorkFromHome.Domain.pdb
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.AssemblyInfo.cs
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.sourcelink.json
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net7.0\refint\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.pdb
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net7.0\ref\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\bin\Debug\net7.0\WorkFromHome.Domain.deps.json
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\bin\Debug\net7.0\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\bin\Debug\net7.0\WorkFromHome.Domain.pdb
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.AssemblyInfo.cs
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.sourcelink.json
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net7.0\refint\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net7.0\WorkFromHome.Domain.pdb
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net7.0\ref\WorkFromHome.Domain.dll

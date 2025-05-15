@@ -1,0 +1,25 @@
+[
+  {
+    "FirstName": "John",
+    "LastName": "Doe",
+    "Email": "john@gmail.com",
+    "PhoneNumber": "1234567890",
+    "Role": "Employee",
+    "Id": 1,
+    "EmployeeGUID": "d653c73e-3bf9-4724-afe2-3c0b2ff1c293",
+    "AddedOn": "0001-01-01T00:00:00",
+    "AddedBy": 0
+  },
+  {
+    "FirstName": "Jane",
+    "LastName": "Doe",
+    "Email": "jane@gmail.com",
+    "PhoneNumber": "1234567890",
+    "Role": "Manager",
+    "Id": 2,
+    "EmployeeGUID": "d653c73e-3bf9-4724-afe2-3c0b2ff1c294",
+    "AddedOn": "0001-01-01T00:00:00",
+    "AddedBy": 0
+  },
+
+]

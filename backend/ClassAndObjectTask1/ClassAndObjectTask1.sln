@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkFromHome", "WorkFromHome.csproj", "{F578DDD6-C7A1-4BBC-A536-EC87365F43C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkFromHome.Domain", "..\WorkFromHome.Domain\WorkFromHome.Domain.csproj", "{6DF9B151-AC05-4F89-85B9-5217B00CDF60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkFromHome.Domain.Test", "..\WorkFromHome.Domain.Test\WorkFromHome.Domain.Test.csproj", "{B903F5D9-9EFE-40F8-BFCA-E4B6A408F944}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WFH.infrastructure", "..\WFH.infrastructure\WFH.infrastructure.csproj", "{6B26BB19-C63B-4790-A034-793A569D75E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WFH.Api", "..\WFH.Api\WFH.Api.csproj", "{014D30CB-F9FB-41BA-BFCA-991C62FF24F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkFromHome.Application", "..\WorkFromHome.Application\WorkFromHome.Application.csproj", "{B7E9A99D-4175-4F4A-AAE4-B7CB0410B523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F578DDD6-C7A1-4BBC-A536-EC87365F43C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F578DDD6-C7A1-4BBC-A536-EC87365F43C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F578DDD6-C7A1-4BBC-A536-EC87365F43C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F578DDD6-C7A1-4BBC-A536-EC87365F43C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DF9B151-AC05-4F89-85B9-5217B00CDF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF9B151-AC05-4F89-85B9-5217B00CDF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF9B151-AC05-4F89-85B9-5217B00CDF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF9B151-AC05-4F89-85B9-5217B00CDF60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B903F5D9-9EFE-40F8-BFCA-E4B6A408F944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B903F5D9-9EFE-40F8-BFCA-E4B6A408F944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B903F5D9-9EFE-40F8-BFCA-E4B6A408F944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B903F5D9-9EFE-40F8-BFCA-E4B6A408F944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B26BB19-C63B-4790-A034-793A569D75E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B26BB19-C63B-4790-A034-793A569D75E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B26BB19-C63B-4790-A034-793A569D75E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B26BB19-C63B-4790-A034-793A569D75E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{014D30CB-F9FB-41BA-BFCA-991C62FF24F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014D30CB-F9FB-41BA-BFCA-991C62FF24F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014D30CB-F9FB-41BA-BFCA-991C62FF24F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014D30CB-F9FB-41BA-BFCA-991C62FF24F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E9A99D-4175-4F4A-AAE4-B7CB0410B523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E9A99D-4175-4F4A-AAE4-B7CB0410B523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E9A99D-4175-4F4A-AAE4-B7CB0410B523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E9A99D-4175-4F4A-AAE4-B7CB0410B523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {198B0C25-1EF6-4D2B-9547-A7A89541E211}
+	EndGlobalSection
+EndGlobal

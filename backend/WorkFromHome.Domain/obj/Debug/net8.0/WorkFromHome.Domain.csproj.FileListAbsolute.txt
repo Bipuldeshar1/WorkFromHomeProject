@@ -1,0 +1,55 @@
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\bin\Debug\net8.0\WorkFromHome.Domain.deps.json
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\bin\Debug\net8.0\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\bin\Debug\net8.0\WorkFromHome.Domain.pdb
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.AssemblyInfo.cs
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.sourcelink.json
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net8.0\refint\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.pdb
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\obj\Debug\net8.0\ref\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Domain\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\dell\Desktop\final project\backend\WorkFromHome.Domain\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\dell\Desktop\final project\backend\WorkFromHome.Domain\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\dell\Desktop\final project\backend\WorkFromHome.Domain\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\dell\Desktop\final project\backend\WorkFromHome.Domain\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\dell\Desktop\final project\backend\WorkFromHome.Domain\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\dell\Desktop\final project\backend\WorkFromHome.Domain\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\dell\Desktop\final project\backend\WorkFromHome.Domain\bin\Debug\net8.0\WorkFromHome.Domain.deps.json
+C:\Users\dell\Desktop\final project\backend\WorkFromHome.Domain\bin\Debug\net8.0\WorkFromHome.Domain.dll
+C:\Users\dell\Desktop\final project\backend\WorkFromHome.Domain\bin\Debug\net8.0\WorkFromHome.Domain.pdb
+C:\Users\dell\Desktop\final project\backend\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\final project\backend\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\final project\backend\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\final project\backend\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.AssemblyInfo.cs
+C:\Users\dell\Desktop\final project\backend\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\final project\backend\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.dll
+C:\Users\dell\Desktop\final project\backend\WorkFromHome.Domain\obj\Debug\net8.0\refint\WorkFromHome.Domain.dll
+C:\Users\dell\Desktop\final project\backend\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.pdb
+C:\Users\dell\Desktop\final project\backend\WorkFromHome.Domain\obj\Debug\net8.0\ref\WorkFromHome.Domain.dll
+C:\Users\dell\Desktop\project\backend\WorkFromHome.Domain\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\dell\Desktop\project\backend\WorkFromHome.Domain\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\dell\Desktop\project\backend\WorkFromHome.Domain\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\dell\Desktop\project\backend\WorkFromHome.Domain\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\dell\Desktop\project\backend\WorkFromHome.Domain\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\dell\Desktop\project\backend\WorkFromHome.Domain\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\dell\Desktop\project\backend\WorkFromHome.Domain\bin\Debug\net8.0\WorkFromHome.Domain.deps.json
+C:\Users\dell\Desktop\project\backend\WorkFromHome.Domain\bin\Debug\net8.0\WorkFromHome.Domain.dll
+C:\Users\dell\Desktop\project\backend\WorkFromHome.Domain\bin\Debug\net8.0\WorkFromHome.Domain.pdb
+C:\Users\dell\Desktop\project\backend\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\project\backend\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\project\backend\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\project\backend\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.AssemblyInfo.cs
+C:\Users\dell\Desktop\project\backend\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\project\backend\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.dll
+C:\Users\dell\Desktop\project\backend\WorkFromHome.Domain\obj\Debug\net8.0\refint\WorkFromHome.Domain.dll
+C:\Users\dell\Desktop\project\backend\WorkFromHome.Domain\obj\Debug\net8.0\WorkFromHome.Domain.pdb
+C:\Users\dell\Desktop\project\backend\WorkFromHome.Domain\obj\Debug\net8.0\ref\WorkFromHome.Domain.dll

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ClassAndObjectTask1",
+    "\\WFH.Api",
+    "\\WorkFromHome.Application",
+    "\\WorkFromHome.Domain",
+    "\\WorkFromHome.Domain\\models"
+  ],
+  "SelectedNode": "\\WorkFromHome.Domain\\models\\Employee.cs",
+  "PreviewInSolutionExplorer": false
+}

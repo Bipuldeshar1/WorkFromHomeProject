@@ -1,0 +1,375 @@
+F:\internship\WFH.Api\bin\Debug\net7.0\appsettings.Development.json
+F:\internship\WFH.Api\bin\Debug\net7.0\appsettings.json
+F:\internship\WFH.Api\bin\Debug\net7.0\WFH.Api.exe
+F:\internship\WFH.Api\bin\Debug\net7.0\WFH.Api.deps.json
+F:\internship\WFH.Api\bin\Debug\net7.0\WFH.Api.runtimeconfig.json
+F:\internship\WFH.Api\bin\Debug\net7.0\WFH.Api.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\WFH.Api.pdb
+F:\internship\WFH.Api\bin\Debug\net7.0\Azure.Core.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Azure.Identity.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\System.Memory.Data.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\WFH.infrastructure.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\WorkFromHome.Domain.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\WFH.infrastructure.pdb
+F:\internship\WFH.Api\bin\Debug\net7.0\WorkFromHome.Domain.pdb
+F:\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.csproj.AssemblyReference.cache
+F:\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.AssemblyInfoInputs.cache
+F:\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.AssemblyInfo.cs
+F:\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.csproj.CoreCompileInputs.cache
+F:\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\internship\WFH.Api\obj\Debug\net7.0\staticwebassets.build.json
+F:\internship\WFH.Api\obj\Debug\net7.0\staticwebassets.development.json
+F:\internship\WFH.Api\obj\Debug\net7.0\staticwebassets\msbuild.WFH.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\internship\WFH.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.WFH.Api.props
+F:\internship\WFH.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WFH.Api.props
+F:\internship\WFH.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WFH.Api.props
+F:\internship\WFH.Api\obj\Debug\net7.0\staticwebassets.pack.json
+F:\internship\WFH.Api\obj\Debug\net7.0\scopedcss\bundle\WFH.Api.styles.css
+F:\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.csproj.Up2Date
+F:\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.dll
+F:\internship\WFH.Api\obj\Debug\net7.0\refint\WFH.Api.dll
+F:\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.pdb
+F:\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.genruntimeconfig.cache
+F:\internship\WFH.Api\obj\Debug\net7.0\ref\WFH.Api.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Humanizer.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\System.CodeDom.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\WorkFromHome.Application.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\WorkFromHome.Application.pdb
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.sourcelink.json
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\internship\WFH.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\WFH.Api.exe
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\WFH.Api.deps.json
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\WFH.Api.runtimeconfig.json
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\WFH.Api.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\WFH.Api.pdb
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\WFH.infrastructure.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\WorkFromHome.Application.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\WFH.infrastructure.pdb
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\WorkFromHome.Domain.pdb
+C:\Users\Dell\Desktop\internship\WFH.Api\bin\Debug\net7.0\WorkFromHome.Application.pdb
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.AssemblyInfo.cs
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\staticwebassets\msbuild.WFH.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.WFH.Api.props
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WFH.Api.props
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WFH.Api.props
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\scopedcss\bundle\WFH.Api.styles.css
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.csproj.Up2Date
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\refint\WFH.Api.dll
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.pdb
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\WFH.Api.genruntimeconfig.cache
+C:\Users\Dell\Desktop\internship\WFH.Api\obj\Debug\net7.0\ref\WFH.Api.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WFH.Api.exe
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WFH.Api.deps.json
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WFH.Api.runtimeconfig.json
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WFH.Api.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WFH.Api.pdb
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Google.Apis.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Google.Apis.Auth.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Google.Apis.Core.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\System.Management.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WFH.infrastructure.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WorkFromHome.Application.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WFH.infrastructure.pdb
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WorkFromHome.Domain.pdb
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WorkFromHome.Application.pdb
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.AssemblyInfo.cs
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.sourcelink.json
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\staticwebassets\msbuild.WFH.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.WFH.Api.props
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WFH.Api.props
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WFH.Api.props
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\scopedcss\bundle\WFH.Api.styles.css
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.csproj.Up2Date
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\refint\WFH.Api.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.pdb
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.genruntimeconfig.cache
+C:\Users\Dell\Desktop\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\ref\WFH.Api.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WFH.Api.exe
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WFH.Api.deps.json
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WFH.Api.runtimeconfig.json
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WFH.Api.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WFH.Api.pdb
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Google.Apis.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Google.Apis.Auth.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Google.Apis.Core.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\System.Management.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WFH.infrastructure.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WorkFromHome.Application.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WFH.infrastructure.pdb
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WorkFromHome.Domain.pdb
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\bin\Debug\net7.0\WorkFromHome.Application.pdb
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.AssemblyInfo.cs
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.sourcelink.json
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\staticwebassets\msbuild.WFH.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.WFH.Api.props
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WFH.Api.props
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WFH.Api.props
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\scopedcss\bundle\WFH.Api.styles.css
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.csproj.Up2Date
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\refint\WFH.Api.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.pdb
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\WFH.Api.genruntimeconfig.cache
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WFH.Api\obj\Debug\net7.0\ref\WFH.Api.dll

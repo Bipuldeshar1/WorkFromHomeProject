@@ -1,0 +1,64 @@
+F:\internship\WorkFromHome.Application\bin\Debug\net7.0\WorkFromHome.Application.deps.json
+F:\internship\WorkFromHome.Application\bin\Debug\net7.0\WorkFromHome.Application.dll
+F:\internship\WorkFromHome.Application\bin\Debug\net7.0\WorkFromHome.Application.pdb
+F:\internship\WorkFromHome.Application\bin\Debug\net7.0\WorkFromHome.Domain.dll
+F:\internship\WorkFromHome.Application\bin\Debug\net7.0\WorkFromHome.Domain.pdb
+F:\internship\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.csproj.AssemblyReference.cache
+F:\internship\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\internship\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.AssemblyInfoInputs.cache
+F:\internship\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.AssemblyInfo.cs
+F:\internship\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.csproj.CoreCompileInputs.cache
+F:\internship\WorkFromHome.Application\obj\Debug\net7.0\WorkFrom.B4C9FC95.Up2Date
+F:\internship\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.dll
+F:\internship\WorkFromHome.Application\obj\Debug\net7.0\refint\WorkFromHome.Application.dll
+F:\internship\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.pdb
+F:\internship\WorkFromHome.Application\obj\Debug\net7.0\ref\WorkFromHome.Application.dll
+F:\internship\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.sourcelink.json
+C:\Users\Dell\Desktop\internship\WorkFromHome.Application\bin\Debug\net7.0\WorkFromHome.Application.deps.json
+C:\Users\Dell\Desktop\internship\WorkFromHome.Application\bin\Debug\net7.0\WorkFromHome.Application.dll
+C:\Users\Dell\Desktop\internship\WorkFromHome.Application\bin\Debug\net7.0\WorkFromHome.Application.pdb
+C:\Users\Dell\Desktop\internship\WorkFromHome.Application\bin\Debug\net7.0\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\internship\WorkFromHome.Application\bin\Debug\net7.0\WorkFromHome.Domain.pdb
+C:\Users\Dell\Desktop\internship\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\internship\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\internship\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\internship\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.AssemblyInfo.cs
+C:\Users\Dell\Desktop\internship\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\internship\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.sourcelink.json
+C:\Users\Dell\Desktop\internship\WorkFromHome.Application\obj\Debug\net7.0\WorkFrom.B4C9FC95.Up2Date
+C:\Users\Dell\Desktop\internship\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.dll
+C:\Users\Dell\Desktop\internship\WorkFromHome.Application\obj\Debug\net7.0\refint\WorkFromHome.Application.dll
+C:\Users\Dell\Desktop\internship\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.pdb
+C:\Users\Dell\Desktop\internship\WorkFromHome.Application\obj\Debug\net7.0\ref\WorkFromHome.Application.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Application\bin\Debug\net7.0\WorkFromHome.Application.deps.json
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Application\bin\Debug\net7.0\WorkFromHome.Application.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Application\bin\Debug\net7.0\WorkFromHome.Application.pdb
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Application\bin\Debug\net7.0\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Application\bin\Debug\net7.0\WorkFromHome.Domain.pdb
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.AssemblyInfo.cs
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.sourcelink.json
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\WorkFrom.B4C9FC95.Up2Date
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\refint\WorkFromHome.Application.dll
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.pdb
+C:\Users\Dell\Desktop\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\ref\WorkFromHome.Application.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Application\bin\Debug\net7.0\WorkFromHome.Application.deps.json
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Application\bin\Debug\net7.0\WorkFromHome.Application.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Application\bin\Debug\net7.0\WorkFromHome.Application.pdb
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Application\bin\Debug\net7.0\WorkFromHome.Domain.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Application\bin\Debug\net7.0\WorkFromHome.Domain.pdb
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.AssemblyInfo.cs
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.sourcelink.json
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\WorkFrom.B4C9FC95.Up2Date
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\refint\WorkFromHome.Application.dll
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\WorkFromHome.Application.pdb
+C:\Users\Dell\Desktop\New folder\internship\dotnetintern\WorkFromHome.Application\obj\Debug\net7.0\ref\WorkFromHome.Application.dll

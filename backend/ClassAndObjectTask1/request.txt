@@ -1,0 +1,163 @@
+[
+  {
+    "RequestGUID": "6f3856f6-f951-479f-9c8f-205acec519da",
+    "RequestedBy": "d653c73e-3bf9-4724-afe2-3c0b2ff1c294",
+    "RequestFrom": "2024-08-09T00:00:00",
+    "RequestUpTo": "2024-08-11T00:00:00",
+    "ApproverIdentifier": "d653c73e-3bf9-4724-afe2-3c0b2ff1c294",
+    "RequestStatus": 2,
+    "approval": {
+      "ApprovalGUID": "00000000-0000-0000-0000-000000000000",
+      "ApprovedDate": "0001-01-01T00:00:00",
+      "RequestIdentifier": "00000000-0000-0000-0000-000000000000",
+      "Id": 0,
+      "AddedOn": "0001-01-01T00:00:00",
+      "UpdatedOn": null,
+      "AddedBy": 0,
+      "UpdatedBy": 0
+    },
+    "Id": 0,
+    "AddedOn": "0001-01-01T00:00:00",
+    "UpdatedOn": "2024-08-09T07:02:34.1610995Z",
+    "AddedBy": 0,
+    "UpdatedBy": 0
+  },
+  {
+    "RequestGUID": "92e0ead1-111a-4e0a-a9e4-2b0883dca9cf",
+    "RequestedBy": "d653c73e-3bf9-4724-afe2-3c0b2ff1c294",
+    "RequestFrom": "2024-08-09T00:00:00",
+    "RequestUpTo": "2024-08-11T00:00:00",
+    "ApproverIdentifier": "d653c73e-3bf9-4724-afe2-3c0b2ff1c294",
+    "RequestStatus": 2,
+    "approval": {
+      "ApprovalGUID": "00000000-0000-0000-0000-000000000000",
+      "ApprovedDate": "0001-01-01T00:00:00",
+      "RequestIdentifier": "00000000-0000-0000-0000-000000000000",
+      "Id": 0,
+      "AddedOn": "0001-01-01T00:00:00",
+      "UpdatedOn": null,
+      "AddedBy": 0,
+      "UpdatedBy": 0
+    },
+    "Id": 0,
+    "AddedOn": "0001-01-01T00:00:00",
+    "UpdatedOn": "2024-08-09T07:02:34.1611786Z",
+    "AddedBy": 0,
+    "UpdatedBy": 0
+  },
+  {
+    "RequestGUID": "b644773f-f832-4d9c-8035-9a7847b4e4c1",
+    "RequestedBy": "d653c73e-3bf9-4724-afe2-3c0b2ff1c294",
+    "RequestFrom": "2024-09-01T00:00:00",
+    "RequestUpTo": "2024-09-15T00:00:00",
+    "ApproverIdentifier": "d653c73e-3bf9-4724-afe2-3c0b2ff1c294",
+    "RequestStatus": 3,
+    "approval": {
+      "ApprovalGUID": "00000000-0000-0000-0000-000000000000",
+      "ApprovedDate": "0001-01-01T00:00:00",
+      "RequestIdentifier": "00000000-0000-0000-0000-000000000000",
+      "Id": 0,
+      "AddedOn": "0001-01-01T00:00:00",
+      "UpdatedOn": null,
+      "AddedBy": 0,
+      "UpdatedBy": 0
+    },
+    "Id": 0,
+    "AddedOn": "0001-01-01T00:00:00",
+    "UpdatedOn": "2024-08-09T07:02:34.1612524Z",
+    "AddedBy": 0,
+    "UpdatedBy": 0
+  },
+  {
+    "RequestGUID": "e49f4424-c4ee-4758-9639-c89240e0bac6",
+    "RequestedBy": "d653c73e-3bf9-4724-afe2-3c0b2ff1c294",
+    "RequestFrom": "2024-08-09T00:00:00",
+    "RequestUpTo": "2024-08-11T00:00:00",
+    "ApproverIdentifier": "d653c73e-3bf9-4724-afe2-3c0b2ff1c294",
+    "RequestStatus": 2,
+    "approval": {
+      "ApprovalGUID": "07b75ca3-fc5f-4107-8352-47f29e7f331b",
+      "ApprovedDate": "2024-08-09T08:29:44.765274+05:45",
+      "RequestIdentifier": "e49f4424-c4ee-4758-9639-c89240e0bac6",
+      "Id": 0,
+      "AddedOn": "0001-01-01T00:00:00",
+      "UpdatedOn": null,
+      "AddedBy": 0,
+      "UpdatedBy": 0
+    },
+    "Id": 0,
+    "AddedOn": "0001-01-01T00:00:00",
+    "UpdatedOn": "2024-08-09T07:02:34.1613305Z",
+    "AddedBy": 0,
+    "UpdatedBy": 0
+  },
+  {
+    "RequestGUID": "1b73656c-63d9-4106-9e53-93942ba001df",
+    "RequestedBy": "d653c73e-3bf9-4724-afe2-3c0b2ff1c293",
+    "RequestFrom": "2024-08-09T00:00:00",
+    "RequestUpTo": "2024-08-11T00:00:00",
+    "ApproverIdentifier": "d653c73e-3bf9-4724-afe2-3c0b2ff1c294",
+    "RequestStatus": 2,
+    "approval": {
+      "ApprovalGUID": "9aad6aff-e09e-4b9b-958f-c1c5251e7902",
+      "ApprovedDate": "2024-08-09T10:44:48.0231094+05:45",
+      "RequestIdentifier": "1b73656c-63d9-4106-9e53-93942ba001df",
+      "Id": 0,
+      "AddedOn": "0001-01-01T00:00:00",
+      "UpdatedOn": null,
+      "AddedBy": 0,
+      "UpdatedBy": 0
+    },
+    "Id": 0,
+    "AddedOn": "0001-01-01T00:00:00",
+    "UpdatedOn": "2024-08-09T07:02:34.1614118Z",
+    "AddedBy": 0,
+    "UpdatedBy": 0
+  },
+  {
+    "RequestGUID": "6d868be2-a399-40b3-99ac-f37fe52c6d32",
+    "RequestedBy": "d653c73e-3bf9-4724-afe2-3c0b2ff1c293",
+    "RequestFrom": "2024-08-09T00:00:00",
+    "RequestUpTo": "2024-08-11T00:00:00",
+    "ApproverIdentifier": "d653c73e-3bf9-4724-afe2-3c0b2ff1c294",
+    "RequestStatus": 3,
+    "approval": {
+      "ApprovalGUID": "5c53bf36-b8a8-43f2-9796-d0aba65c50d3",
+      "ApprovedDate": "2024-08-09T10:45:12.4738472+05:45",
+      "RequestIdentifier": "6d868be2-a399-40b3-99ac-f37fe52c6d32",
+      "Id": 0,
+      "AddedOn": "0001-01-01T00:00:00",
+      "UpdatedOn": null,
+      "AddedBy": 0,
+      "UpdatedBy": 0
+    },
+    "Id": 0,
+    "AddedOn": "0001-01-01T00:00:00",
+    "UpdatedOn": "2024-08-09T07:02:34.1614509Z",
+    "AddedBy": 0,
+    "UpdatedBy": 0
+  },
+  {
+    "RequestGUID": "763bee36-7b7c-4cf4-a18e-e5e25492e5f9",
+    "RequestedBy": "d653c73e-3bf9-4724-afe2-3c0b2ff1c293",
+    "RequestFrom": "2024-08-09T00:00:00",
+    "RequestUpTo": "2024-08-10T00:00:00",
+    "ApproverIdentifier": "d653c73e-3bf9-4724-afe2-3c0b2ff1c294",
+    "RequestStatus": 2,
+    "approval": {
+      "ApprovalGUID": "bd59363b-7280-4d85-94af-3f5c0cb2f3e7",
+      "ApprovedDate": "2024-08-09T12:47:34.1621789+05:45",
+      "RequestIdentifier": "763bee36-7b7c-4cf4-a18e-e5e25492e5f9",
+      "Id": 0,
+      "AddedOn": "0001-01-01T00:00:00",
+      "UpdatedOn": null,
+      "AddedBy": 0,
+      "UpdatedBy": 0
+    },
+    "Id": 0,
+    "AddedOn": "0001-01-01T00:00:00",
+    "UpdatedOn": "2024-08-09T07:02:34.1614964Z",
+    "AddedBy": 0,
+    "UpdatedBy": 0
+  }
+]
